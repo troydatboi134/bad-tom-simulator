@@ -209,7 +209,4 @@ $Wait2,SET,LastDir,$Direction,,,,,,
 0,HeartMaxFallSpeed,60,,,,,,,
 0,ADD,I,$I,1,,,,,
 0,JMPL,166,$I,38,,,,,
-1.5,SansAnimation,Tired,,,,,,,
-0,SansText,your going to have   a    bad time.,,,,,,,
-
 2.4,EndAttack,,,,,,,,
