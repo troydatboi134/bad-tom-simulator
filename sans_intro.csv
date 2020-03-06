@@ -4,15 +4,12 @@
 0,SansText,you stole my lunch box,,,,,,,
 0,SansText,now your going                  to have...,,,,,,,
 0,SansText,a bad tom...,,,,,,,
-
-0,Sound,mus_zz_megalovania,0,,,,,,
 0,SansHead,ClosedEyes,,,,,,,
 0.5,BlackScreen,1,,,,,,,
 0,Sound,Flash,,,,,,,
 1,BlackScreen,0,,,,,,,
 0,Sound,Flash,,,,,,,
 0,SansHead,NoEyes,,,,,,,
-0,Sound,mus_zz_megalovania,1,,,,,,
 0,SansAnimation,Tired,,,,,,,
 0.5,BlackScreen,1,,,,,,,
 0,Sound,Flash,,,,,,,
@@ -71,4 +68,29 @@
 0,GasterBlaster,1,0,0,259,166,90,1.5,0.1
 0,GasterBlaster,1,640,480,449,366,180,1.5,0.1
 0,GasterBlaster,1,640,480,379,446,270,1.5,0.1
-2.4,EndAttack,,,,,,,,
+1,SansHead,NoEyes,,,,,,,
+1.2,SansHead,Default,,,,,,,
+0.05,SansSlam,2,,,,,,,
+0,SansBody,HandLeft,,,,,,,
+0,BoneStab,2,30,0.3,0.5,,,,
+0.6,SansSlam,0,,,,,,,
+0,SansBody,HandRight,,,,,,,
+0,BoneStab,0,30,0.3,0.5,,,,
+0,GasterBlaster,1,0,0,269,166,90,0.333,0.8
+0,GasterBlaster,1,640,480,369,446,270,0.333,0.8
+0.6,SansSlam,1,,,,,,,
+0,SansBody,HandDown,,,,,,,
+0,BoneStab,1,30,0.3,0.5,,,,
+0.6,SansSlam,3,,,,,,,
+0,SansBody,HandUp,,,,,,,
+0,BoneStab,3,30,0.3,0.5,,,,
+0.7,SansAnimation,Idle,,,,,,,
+0,HeartMode,0,,,,,,,
+0,BoneHRepeat,130,-10,200,1,500,7,183,
+0,BoneHRepeat,330,650,200,3,500,7,183,
+0,GasterBlaster,1,0,0,189,226,0,0.333,1.6
+0,GasterBlaster,1,640,480,449,386,180,0.333,1.6
+2.6666666,SansTorso,Default,,,,,,,
+0,SansBody,HandLeft,,,,,,,
+
+0,EndAttack,,,,,,,,
