@@ -1,3 +1,10 @@
+0,SansAnimation,,,,,,,,
+0,SansHead,ClosedEyes,,,,,,,
+0,SansText,hi I'm underman,,,,,,,
+0,SansText,you stole my lunch box,,,,,,,
+0,SansText,now your going                  to have...,,,,,,,
+0,SansText,a bad tom...,,,,,,,
+
 0,Sound,mus_zz_megalovania,0,,,,,,
 0,SansHead,ClosedEyes,,,,,,,
 0.5,BlackScreen,1,,,,,,,
@@ -213,12 +220,9 @@
 0,SansText,Welp.,,,,,,,
 0,SansTorso,Shrug,,,,,,,
 0,SansHead,Wink,,,,,,,
-0,SansText,Guess I can't,,,,,,,
-0,SansText,stop you.,,,,,,,
 0,SansHead,Default,,,,,,,
 0,SansTorso,Default,,,,,,,
 2.2,SansText,Welp.,,,,,,,
 0,SansHead,Wink,,,,,,,
 0,SansTorso,Default,,,,,,,
 0,EndAttack,,,,,,,,
-
